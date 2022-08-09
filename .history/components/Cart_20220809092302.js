@@ -140,4 +140,4 @@ const Cart = () => {
   );
 };
 
-export  {Cart};
+export  Cart;
